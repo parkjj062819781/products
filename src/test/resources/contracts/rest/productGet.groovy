@@ -8,7 +8,6 @@ org.springframework.cloud.contract.spec.Contract.make {
             contentType(applicationJson())
         }
     }
-    
     response {
         status 200
         body(
